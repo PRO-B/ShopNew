@@ -2,6 +2,13 @@
 
 	"help": "ok . no . update . update_pro" ,
 	"name": "NewShop.com" ,
-	"ok": "ok" 
+	"ok": "ok" ,
+	
+	"--------": "----------" ,
+	
+	"e_n_TXT": "Hello My Name is TXT" ,
+	"e_n_LOGO": "" , 
+
+	"------": "------------------" 
 
 }
