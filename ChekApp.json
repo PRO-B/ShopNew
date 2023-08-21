@@ -4,11 +4,14 @@
 	"name": "NewShop.com" ,
 	"ok": "update_pro" ,
 	
-	"--------": "----------" ,
+	"---- Name Pakage ----": "----------" ,
 	
 	"e_n_TXT": "Hello My Name is TXT" ,
 	"e_n_LOGO": "https://s6.uupload.ir/files/screenshot_۲۰۲۳۰۸۰۳-۲۲۱۲۰۹_gallery_5puv.jpg" , 
 
-	"------": "------------------" 
+	"---- Update ----": "------------------" ,
+
+	"g_text": "Update Pro Test" , 
+	"g_logo": "https://s6.uupload.ir/files/28302556930966305965_34ww.jpg" 
 
 }
