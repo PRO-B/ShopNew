@@ -1,1 +1,130 @@
-data:text/html,<h1>hello</h1>
+data:text/html,<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+    
+		<link rel="stylesheet" href="system/shop/shop.css">
+		<link rel="stylesheet" href="system/shop/shop_media.css">
+		<link rel="stylesheet" href="system/menu/Menu.css">
+		<link rel="stylesheet" href="system/menu/Menu-Media.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+		<link rel="icon" href="systimg/karim.png">
+		<meta charset="UTF-8">
+		<meta name="description" content="سایت نوای نور اراعه دهنده مداحی و پخش زنده شبکه های اسلامی با کیفیت بالا برای تمام مسلمان ها">
+		<meta name="keywords" content="مداحی , پخش زنده , شبکه های اسلامی , امام حسین , نوحه , زنده , اسلام , اسلامی , امام علی , امامرضا , حسین , رضا , علی">
+		<meta name="author" content="T.me/BlackError">
+		<meta property="og:title" content="سایت مداحان نوای نور">
+		<meta property="og:description" content="سایت نوای نور اراعه دهنده مداحی و پخش زنده شبکه های اسلامی با کیفیت بالا برای تمام مسلمان ها">
+		<meta property="og:image" content="systimg/karim.png">
+		<meta name="twitter:title" content="عنوان سایت">
+		<meta name="twitter:description" content="توضیحات سایت">
+		<meta name="twitter:image" content="systimg/karim.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="apple-mobile-web-app-title" content="نوای نور">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-touch-icon" href="systimg/karim.png">
+		<meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+		<meta http-equiv="expires" content="0">
+		<meta http-equiv="pragma" content="no-cache">
+		<title>فروشگاه نوای نور</title>
+		<link rel="report-to" href="/Error">
+		<meta name="referrer" content="origin-when-cross-origin">
+    
+    </head> 
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+              <a class="navbar-brand text-primary fw-lighter fs-3" href="#">The Sound of Light </a>
+              <button class="navbar-toggler border border-0 rounded-6 " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            	<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-grid-fill" viewBox="0 0 16 16">
+            		<path d="M1 2.5A1.5 1.5 0 0 1 2.5 1h3A1.5 1.5 0 0 1 7 2.5v3A1.5 1.5 0 0 1 5.5 7h-3A1.5 1.5 0 0 1 1 5.5v-3zm8 0A1.5 1.5 0 0 1 10.5 1h3A1.5 1.5 0 0 1 15 2.5v3A1.5 1.5 0 0 1 13.5 7h-3A1.5 1.5 0 0 1 9 5.5v-3zm-8 8A1.5 1.5 0 0 1 2.5 9h3A1.5 1.5 0 0 1 7 10.5v3A1.5 1.5 0 0 1 5.5 15h-3A1.5 1.5 0 0 1 1 13.5v-3zm8 0A1.5 1.5 0 0 1 10.5 9h3a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 13.5v-3z"/>
+            	</svg>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                 
+                
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Market
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Mamad Halva</a></li>
+                      <li><a class="dropdown-item" href="#">Sobhan Kalva</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Sayer Dostan Ashnayan</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                  </li>
+                </ul>
+                <form class="d-flex" role="search">
+                  <input class="form-control rounded-3 me-2" type="search" placeholder="Search" aria-label="Search">
+                  <button class="btn btn-outline-primary" type="submit">Search</button>
+                </form>
+              </div>
+            </div>
+          </nav>
+          
+          
+          
+          <header class="headers" >
+          	
+          	<div class="container-fluid" >
+          	
+          		<div class="row justify-content-center" >
+	          		<div class="col-sm-5 text-center text-md-start" >
+	          			<h1>
+		          			<div class="display-2" >Hello Father</div>
+		          			<div class="display-5" >Hi Platform</div>
+		          		</h1>
+		          		<p class="lead my-4 text-muted" >
+		          			Tag p
+		          		</p>
+		          		<a href="#" class="btn btn-info btn-lg"  >Buy Now</a>
+	          		</div>
+	          		<div class="col-md-5 text-center d-none d-md-block" >
+	          		
+	          			<div id="carouselExample" class="carousel slide">
+	          			<div class="carousel-inner">
+	          			<div class="carousel-item active">
+	          			<img src="..." class="d-block w-100" alt="...">
+	          			</div>
+	          			<div class="carousel-item">
+	          			<img src="..." class="d-block w-100" alt="...">
+	          			</div>
+	          			<div class="carousel-item">
+	          			<img src="..." class="d-block w-100" alt="...">
+	          			</div>
+	          			</div>
+	          			<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+	          			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+	          			<span class="visually-hidden">Previous</span>
+	          			</button>
+	          			<button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+	          			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+	          			<span class="visually-hidden">Next</span>
+	          			</button>
+	          			</div>
+	          		
+	          		</div>
+	          		
+	          	</div>
+          	</div>
+          	
+          </header>
+
+          
+
+
+
+
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+
+    </body>
+
+</html>
