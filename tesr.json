@@ -1,1 +1,1 @@
-data:text/html,<h1>hello</h1><script>alert("Im BlackError")</script>
+<h1>hello</h1><script>alert("Im BlackError")</script>
