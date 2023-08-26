@@ -1,4 +1,11 @@
 {
-  "help": "ok -- no -- update -- update-pro -- pname" ,
-  "ok": "ok"
+    "help": "ok . no . update . update_pro" ,
+	"name": "NewShop.com" ,
+	"ok": "ok" ,
+
+    "-- Re Shop --": "-- Re Shop --" ,
+
+    "menu": "link" ,
+    "home": "link" ,
+    "item": "link" 
 }
