@@ -1,11 +1,13 @@
 {
-    "help": "ok . no . update . update_pro" ,
+	
+	"help": "ok . no . update . update_pro" ,
+	
 	"name": "NewShop.com" ,
 	"ok": "ok" ,
-
-    "-- Re Shop --": "-- Re Shop --" ,
-
-    "menu": "link" ,
-    "home": "link" ,
-    "item": "link" 
+	
+	"-- Re Shop --": "-- Re Shop --" ,
+	
+	"menu": "link" ,
+  "home": "link" ,
+  "item": "link" 
 }
