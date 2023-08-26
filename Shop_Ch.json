@@ -1,12 +1,21 @@
 {
 	"help": "ok . no . update . update_pro" ,
-	
 	"name": "NewShop.com" ,
 	"ok": "ok" ,
+
+	"shop_activ": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/Shop_Ch.json" ,
 	
-	"-- Re Shop --": "-- Re Shop --" ,
+	"---- Name Pakage ----": "---- Name Pakage ----" ,
 	
-	"menu": "link" ,
-	"home": "link" ,
-	"item": "link" 
+	"e_n_TXT": "Hello My Name is TXT" ,
+	"e_n_LOGO": "https://s6.uupload.ir/files/screenshot_۲۰۲۳۰۸۰۳-۲۲۱۲۰۹_gallery_5puv.jpg" , 
+
+	"---- Update ----": "---- Update ----" ,
+
+	"g_text": "We sent you an app update, but you didn't update Now you will see this notification and you will not be able to enter the application until you update" , 
+	"g_logo": "https://s6.uupload.ir/files/picsart_23-08-21_19-26-51-265_pswn.jpg" ,
+	"g2_text": "New news 💡 \n Program update is available. You can get more features by updating this application" , 
+	"g2_logo": "https://s6.uupload.ir/files/picsart_23-08-21_20-04-35-298_ra6.jpg" ,
+	
+	"---- No ----": "---- No ---- "
 }
