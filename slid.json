@@ -1,8 +1,14 @@
 [
   {
     "mod1": "mod1" ,
+    "img": ""
+  } ,
+
+  {
+    "mod2": "mod2" ,
+    "img": "" ,
+    "title": "Hello Word" ,
+    "text": "$12,99" 
   }
 
-
-  
 ]
