@@ -1,14 +1,20 @@
 [
   {
-    "mod1": "mod1" ,
     "img": "https://s6.uupload.ir/files/picsart_23-08-17_17-44-26-779_qrdi.jpg"
   } ,
 
   {
-    "mod2": "mod2" ,
-    "img": "https://s6.uupload.ir/files/screenshot_۲۰۲۳۰۷۳۱-۱۳۲۰۳۴_gallery_61l.jpg" ,
-    "title": "Hello Word" ,
-    "text": "$12,99" 
-  }
+    "img": "https://s6.uupload.ir/files/picsart_23-08-17_17-44-26-779_qrdi.jpg"
+  } ,
+
+  {
+    
+    "img": "https://s6.uupload.ir/files/picsart_23-08-17_17-44-26-779_qrdi.jpg"
+  } ,
+
+  {
+    
+    "img": "https://s6.uupload.ir/files/picsart_23-08-17_17-44-26-779_qrdi.jpg"
+  } 
 
 ]
