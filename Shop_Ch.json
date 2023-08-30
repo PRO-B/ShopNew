@@ -26,6 +26,11 @@
 	"slid": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/slid.json" ,
 	"it": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/item.json" ,
 	"msl": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/Mahsol.json" ,
-	"menu": "" 
+	"meno": {
+		"about": "" ,
+		"list": "" ,
+		"home": "" ,
+		"wallet": "" 
+	}
 
 }
