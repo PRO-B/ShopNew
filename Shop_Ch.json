@@ -26,11 +26,6 @@
 	"slid": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/slid.json" ,
 	"it": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/item.json" ,
 	"msl": "https://raw.githubusercontent.com/PRO-B/ShopNew/main/Mahsol.json" ,
-	"meno": {
-		"about": "https://s6.uupload.ir/files/info_kffp.png" ,
-		"list": "https://s6.uupload.ir/files/world_myik.png" ,
-		"home": "https://s6.uupload.ir/files/home_su7o.png" ,
-		"wallet": "https://s6.uupload.ir/files/wallet_z5wu.png" 
-	}
+	"meno": ""
 
 }
