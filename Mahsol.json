@@ -2,13 +2,15 @@
   {
     "img": "https://s.alicdn.com/@sc04/kf/H2014192a47bb447b8546108b35e52ea51.png_350x350xz.jpg" ,
     "Title": "RetsBoll" ,
-    "Daler": 27.99
+    "Daler": 27.99 ,
+    "AC": "1" 
   } , 
 
   {
     "img": "https://s.alicdn.com/@sc04/kf/H2014192a47bb447b8546108b35e52ea51.png_350x350xz.jpg" ,
     "Title": "RetsSoll" ,
-    "Daler": 25.99
+    "Daler": 25.99 , 
+    "AC": "2"
   } , 
 
   {
